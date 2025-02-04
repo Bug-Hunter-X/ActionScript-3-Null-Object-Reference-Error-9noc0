@@ -1,0 +1,1 @@
+This repository demonstrates a common ActionScript 3 error: the null object reference error.  The `bug.as` file shows the error-causing code.  The `bugSolution.as` file provides a corrected version with proper null checks.
